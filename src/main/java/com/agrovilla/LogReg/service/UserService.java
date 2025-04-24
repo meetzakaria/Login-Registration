@@ -1,11 +1,11 @@
-package com.agrovilla.Login.Registration.service;
+package com.agrovilla.LogReg.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
-import com.agrovilla.Login.Registration.model.User;
-import com.agrovilla.Login.Registration.repository.UserRepository;
+import com.agrovilla.LogReg.model.User;
+import com.agrovilla.LogReg.repository.UserRepository;
 
 @Service
 public class UserService {

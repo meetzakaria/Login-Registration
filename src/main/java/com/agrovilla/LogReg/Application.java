@@ -1,4 +1,4 @@
-package com.agrovilla.Login.Registration;
+package com.agrovilla.LogReg;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

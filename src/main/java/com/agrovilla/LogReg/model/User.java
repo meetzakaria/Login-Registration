@@ -1,4 +1,4 @@
-package com.agrovilla.Login.Registration.model;
+package com.agrovilla.LogReg.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

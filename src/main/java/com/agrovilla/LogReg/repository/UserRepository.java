@@ -1,8 +1,8 @@
-package com.agrovilla.Login.Registration.repository;
+package com.agrovilla.LogReg.repository;
 
 
 
-import com.agrovilla.Login.Registration.model.User;
+import com.agrovilla.LogReg.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,12 +1,12 @@
-package com.agrovilla.Login.Registration.service;
+package com.agrovilla.LogReg.service;
 
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
-import com.agrovilla.Login.Registration.model.User;
-import com.agrovilla.Login.Registration.repository.UserRepository;
+import com.agrovilla.LogReg.model.User;
+import com.agrovilla.LogReg.repository.UserRepository;
 
 @Service
 public class CustomUserDetails implements UserDetailsService{
